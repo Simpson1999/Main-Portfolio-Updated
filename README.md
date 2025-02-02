@@ -14,6 +14,6 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Microsoft Excel,
 
 - Scrubbed data extracted from my eBay store while showcasing statistics and visualizations within Microsoft Power BI regarding items sold within the past year.
 
-3. Bike Project Dashboard. Excel
+3. PDF Data Extraction. Microsoft Power Automate, Microsft Excel
 
-- Cleaned data and identified customer trends while developing a dashboard within Microsoft Excel to support findings. 
+- Leveraged Microsoft Power Automate and Microsoft Excel to streamline a weekly process, automating data extraction from PDFs and reducing processing time by over 50%.
